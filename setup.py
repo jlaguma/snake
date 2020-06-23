@@ -14,7 +14,7 @@ setup(
     version=snake.__version__,
     author=snake.__author__,
     author_email='james@taran.biz',
-    url='https://www.linkedin.com/in/jlaguma/',
+    url='https://github.com/jlaguma/snake',
     packages=['snake'],
     package_data={},
     install_requires=['pygame', 'click'],
